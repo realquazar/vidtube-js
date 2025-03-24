@@ -1,0 +1,2 @@
+This is a folder you need to create on your own "/public/temp"
+msg.txt is not required
